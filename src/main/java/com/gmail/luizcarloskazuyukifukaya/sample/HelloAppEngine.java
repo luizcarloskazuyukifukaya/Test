@@ -20,7 +20,7 @@ public class HelloAppEngine extends HttpServlet {
     response.setContentType("text/plain");
     response.setCharacterEncoding("UTF-8");
 
-    response.getWriter().print("Hello App Engine! Viva GCP on feature/Enhancement!\r\n");
+    response.getWriter().print("Hello App Engine! Viva GCP on alpha!\r\n");
 
   }
 }
